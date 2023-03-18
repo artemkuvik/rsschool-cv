@@ -1,1 +1,3 @@
-https://artemkuvik.github.io/rsschool-cv/cv
+# rsschool-cv
+
+https://artemkuvik.github.io/rsschool-cv/
